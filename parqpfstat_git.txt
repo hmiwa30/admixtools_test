@@ -6,7 +6,7 @@
 genotypename:                data/v50.0_1240k_public.geno
  poplistname:                      lista.txt
 ## must be present.  ne popuation / line.  First population is base
- fstatsoutname:                    fstatsa_git.txt
+ fstatsoutname:                    result_git/fstatsa_git.txt
 ## first line is header.  Must be retained
  allsnps:                          YES 
 ## default NO  -- dangerous bend
