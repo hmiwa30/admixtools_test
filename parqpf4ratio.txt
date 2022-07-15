@@ -1,0 +1,5 @@
+         DIR:                 data
+     snpname:                 data/v50.0_1240k_public.snp
+   indivname:                data/v50.0_1240k_public.ind
+genotypename:                data/v50.0_1240k_public.geno
+ popfilename:                      lista2.txt

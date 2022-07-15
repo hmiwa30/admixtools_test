@@ -1,0 +1,8 @@
+         DIR:                 data
+          S1:                     v50.0_1240k_public
+   indivname:                data/v50.0_1240k_public.ind
+     snpname:                 data/v50.0_1240k_public.snp
+genotypename:                data/v50.0_1240k_public.geno
+popleft:  left.txt
+popright: right.txt
+details:  YES      ## default NO

@@ -1,0 +1,17 @@
+         DIR:                 data
+          S1:                     v50.0_1240k_public
+         S1X:                     v50.0_1240k_public
+   indivname:                data/v50.0_1240k_public.ind
+     snpname:                 data/v50.0_1240k_public.snp
+genotypename:                data/v50.0_1240k_public.geno
+ poplistname:                      lista.txt
+## must be present.  ne popuation / line.  First population is base
+ fstatsoutname:                    fstatsa.txt 
+## first line is header.  Must be retained
+ allsnps:                          YES 
+## default NO  -- dangerous bend
+ inbreed:                           NO 
+## default (match allsnps:)  
+ scale:                             NO 
+## default YES -- when fstats are scaled to "match" fst in least squares sense 
+*** strongly advuse to specify allsnp: and inbreed: in the paramter file.  
