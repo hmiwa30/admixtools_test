@@ -1,0 +1,17 @@
+         DIR:                 admixtools-test
+          S1:                     v50.0_1240k_public
+         S1X:                     v50.0_1240k_public
+   indivname:                admixtools-test/data/v50.0_1240k_public.ind
+     snpname:                 admixtools-test/data/v50.0_1240k_public.snp
+genotypename:                admixtools-test/data/v50.0_1240k_public.geno
+ poplistname:                      admixtools-test/lista.txt
+## must be present.  ne popuation / line.  First population is base
+ fstatsoutname:                    admixtools-test/fstatsa_git.txt 
+## first line is header.  Must be retained
+ allsnps:                          YES 
+## default NO  -- dangerous bend
+ inbreed:                           NO 
+## default (match allsnps:)  
+ scale:                             NO 
+## default YES -- when fstats are scaled to "match" fst in least squares sense 
+*** strongly advuse to specify allsnp: and inbreed: in the paramter file. 
