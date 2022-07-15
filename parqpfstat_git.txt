@@ -1,12 +1,12 @@
          DIR:                 admixtools-test
           S1:                     v50.0_1240k_public
          S1X:                     v50.0_1240k_public
-   indivname:                admixtools-test/data/v50.0_1240k_public.ind
-     snpname:                 admixtools-test/data/v50.0_1240k_public.snp
-genotypename:                admixtools-test/data/v50.0_1240k_public.geno
- poplistname:                      admixtools-test/lista.txt
+   indivname:                data/v50.0_1240k_public.ind
+     snpname:                 data/v50.0_1240k_public.snp
+genotypename:                data/v50.0_1240k_public.geno
+ poplistname:                      lista.txt
 ## must be present.  ne popuation / line.  First population is base
- fstatsoutname:                    admixtools-test/fstatsa_git.txt 
+ fstatsoutname:                    fstatsa_git.txt
 ## first line is header.  Must be retained
  allsnps:                          YES 
 ## default NO  -- dangerous bend
